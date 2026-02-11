@@ -9,15 +9,13 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   display: flex;
+  align-items: center;
   justify-content: center;
   width: 100%;
 }
 
 #root {
   width: 100%;
-}
-
-.wrapper {
 }
 
 .app {
