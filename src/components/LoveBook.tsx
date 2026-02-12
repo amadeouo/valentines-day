@@ -161,7 +161,7 @@ const LoveBook: React.FC = () => {
                 <div className="back-content">
                   <h2>{pages[currentPage].title}</h2>
                   <p>{pages[currentPage].message}</p>
-                  <p>Встречаемся в 14:00 на Менделеевской</p>
+                  <p>Встречаемся в 14:00 на Автозаводской</p>
                 </div>
               </div>
             )}
