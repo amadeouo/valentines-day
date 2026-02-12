@@ -20,6 +20,7 @@ const PhotoPage: React.FC<Props> = ({ photo, caption }) => {
             src={photo}
             alt={caption}
             className="photo-image"
+            loading='lazy'
           />
         </div>
         <motion.p
